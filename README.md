@@ -25,7 +25,7 @@ This data project scrapes IMBb's Top 250 movies, processes the data, and uncover
 ## 4. Technologies
 <ol>
   <li>Python (requests, BeautifulSoup, pandas, matplotlib)</li>
-  <li>Jupyter Notebook (Google Colab-compatible)</li>
+  <li>Google Colab</li>
 </ol>
 
 ## 5. Results
